@@ -1,4 +1,4 @@
-# Win32 Process Memory Extraction and Diagnostic Tool
+# OnyxCat LSASS DUMPER
 
 A comprehensive C++ demonstration showing how Windows System APIs interact with process tokens, privileges, and debugging libraries. This project is designed for system administrators, security researchers, and developers looking to understand low-level Windows internals, process monitoring, and crash-dump generation.
 
